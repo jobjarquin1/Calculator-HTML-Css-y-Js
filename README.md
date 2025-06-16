@@ -38,3 +38,4 @@ math.min.js: Librería Math.js incluida para operaciones matemáticas.
 Contacto
 Si tienes alguna pregunta o sugerencia, puedes contactarme en jobjarquin97@gmail.com.
 
+![Captura de pantalla 2025-06-16 134803](https://github.com/user-attachments/assets/634c3067-2e47-4745-a691-ca4e3bf6ee8a)
